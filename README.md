@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Terry
+- 👋 Hi, I’m Terry
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning basic programming like java
 - 💞️ I’m looking to collaborate on project with anyone who's willing 
